@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HrLeaveRequestListFunction", "HrLeaveRequestListFunction\HrLeaveRequestListFunction.csproj", "{B31F278F-2F81-4264-9A76-4CAA2BC2B634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B31F278F-2F81-4264-9A76-4CAA2BC2B634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31F278F-2F81-4264-9A76-4CAA2BC2B634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31F278F-2F81-4264-9A76-4CAA2BC2B634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31F278F-2F81-4264-9A76-4CAA2BC2B634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7C842615-162F-4F37-B209-A988410CA711}
+	EndGlobalSection
+EndGlobal
